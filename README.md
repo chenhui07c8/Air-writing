@@ -1,4 +1,4 @@
-# Airwriting
+# Air-writing
 This is an ultrasound based air-writing system.
 
 What is new:
