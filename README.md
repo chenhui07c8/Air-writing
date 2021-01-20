@@ -13,7 +13,3 @@ Word_Angles is a 1X8 cell and each cell contains the 100 word written by a uniqu
 word_ref gives all the 100 words that the volunteers are writing. 
 
 demo_plot.m will plot the letter and word from the dataset.
-
-
-***********************************************************************************************************************
-Classification algorithms (RD, RD with decision tree, DTW, DDTW, ANN, HMM) will be updated soon.
